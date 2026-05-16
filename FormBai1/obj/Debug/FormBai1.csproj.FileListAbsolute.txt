@@ -1,0 +1,14 @@
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\bin\Debug\FormBai1.exe.config
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\bin\Debug\FormBai1.exe
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\bin\Debug\FormBai1.pdb
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.csproj.AssemblyReference.cache
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.FormMain_Bai1.resources
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.FormLoad.resources
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.Properties.Resources.resources
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.Form_Tạo_máy_tính_bỏ_túi.resources
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.Tìm_USCLN_và_BSCNN_của_A_và_B.resources
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.csproj.GenerateResource.cache
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.csproj.CoreCompileInputs.cache
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.exe
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.pdb
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai1\obj\Debug\FormBai1.exe.config

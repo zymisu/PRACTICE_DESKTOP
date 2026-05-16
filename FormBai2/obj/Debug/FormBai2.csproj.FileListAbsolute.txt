@@ -1,0 +1,14 @@
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\bin\Debug\FormBai2.exe.config
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\bin\Debug\FormBai2.exe
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\bin\Debug\FormBai2.pdb
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.csproj.AssemblyReference.cache
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.FormDangKy.resources
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.FormDangNhap.resources
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.FormMain_Bai2.resources
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.FormQuanLySP.resources
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.Properties.Resources.resources
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.csproj.GenerateResource.cache
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.csproj.CoreCompileInputs.cache
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.exe
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.pdb
+C:\Users\anhba\source\repos\BT tổng hợp\FormBai2\obj\Debug\FormBai2.exe.config
